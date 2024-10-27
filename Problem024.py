@@ -15,4 +15,4 @@ def backtrack(nums):
             nums.append(x)
             nums.sort()
 backtrack(nums)
-print(res[999999])
+print(res[-1])
