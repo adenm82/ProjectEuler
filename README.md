@@ -1,4 +1,4 @@
-Some of my solutions to Project Euler problems. 
+Some of my Python solutions to Project Euler problems. 
 My stats:
   -Level 3 (77 Problems solved) 
   -Highest difficulty problem solved: 45% (Problem 225: Tribonacci Non-divisors)
