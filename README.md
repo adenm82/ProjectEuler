@@ -5,3 +5,5 @@ My stats:
   -Least solved problem solved: Problem 348: Sum of a Square and a Cube(25%): Solved by 3308 people
 
 (Yes I use Sieve of Eratosthenes for primes now, you should too!)
+
+(As of October 28, 2024)
