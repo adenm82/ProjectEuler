@@ -1,0 +1,12 @@
+minDiff=float('inf')
+minN=0
+minD=0
+for d in range(5,1_000_001):
+    n=int(d*(3/7)-3)
+    while n/d<3/7:
+        if (3/7)-(n/d)<minDiff:
+            minDiff=(3/7)-(n/d)
+            minN=n
+            minD=d
+        n+=1
+print(minN)
