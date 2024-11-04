@@ -2,7 +2,7 @@ Some of my Python solutions to Project Euler problems.
 
 My stats:
 
-  -Level 3 (85 Problems solved) 
+  -Level 3 (86 Problems solved) 
   
   -Highest difficulty problem solved: 45% (Problem 225: Tribonacci Non-divisors and Problem 130: Composites with Prime Repunit Property)
   
